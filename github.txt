@@ -145,3 +145,14 @@ How to clone
 git clone path(ex- git clone path "https://github.com/tanmaymohanty/ssjs.git") 
 
 
+=======================================================
+How to create folder 
+=======================================================
+mkdir folder name ( mkdir team1)
+
+=======================================================
+How to go floder path
+=======================================================
+cd folder name ( cd team1)
+
+
